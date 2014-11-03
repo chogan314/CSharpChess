@@ -1,0 +1,6 @@
+c:\users\cory\documents\visual studio 2013\Projects\CSharpChess\CSharpChess\bin\Debug\CSharpChess.exe.config
+c:\users\cory\documents\visual studio 2013\Projects\CSharpChess\CSharpChess\obj\Debug\CSharpChess.csprojResolveAssemblyReference.cache
+c:\users\cory\documents\visual studio 2013\Projects\CSharpChess\CSharpChess\bin\Debug\CSharpChess.exe
+c:\users\cory\documents\visual studio 2013\Projects\CSharpChess\CSharpChess\bin\Debug\CSharpChess.pdb
+c:\users\cory\documents\visual studio 2013\Projects\CSharpChess\CSharpChess\obj\Debug\CSharpChess.exe
+c:\users\cory\documents\visual studio 2013\Projects\CSharpChess\CSharpChess\obj\Debug\CSharpChess.pdb
